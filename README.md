@@ -13,13 +13,13 @@ We also thought of people who did not have a phone and would not be aware of our
  
  <hr>
  
- 
+<p align="center">
+        <img height="115" width="250" src="https://github.com/yusuferenkaya/Helpaway/blob/main/assets/git%20images/helpaway_logo.png?raw=true" alt="">
+</p>
 <p align="center">
         <img height="1127" width="793" src="https://github.com/yusuferenkaya/Helpaway/blob/main/assets/git%20images/Marketing.png" alt="">
 </p>
-<p align="center">
-        <img height="337" width="500" src="https://github.com/yusuferenkaya/Helpaway/blob/main/assets/git%20images/helpaway_logo.png?raw=true" alt="">
-</p>
+
 
 
 
