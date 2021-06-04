@@ -20,8 +20,7 @@ We also thought of people who did not have a phone and would not be aware of our
 
 
 <p align="center">
-        <img height="169" width="250" src="https://github.com/yusuferenkaya/Helpaway/blob/main/assets/git%20images/helpaway_logo.png?raw=true
-" alt="">
+        <img height="169" width="250" src="https://github.com/yusuferenkaya/Helpaway/blob/main/assets/git%20images/helpaway_logo.png?raw=true" alt="">
 </p>
 
 
