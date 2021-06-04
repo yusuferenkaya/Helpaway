@@ -1,4 +1,6 @@
-# Helpaway
+<p align="left">
+        <img height="169" width="250" src="https://github.com/yusuferenkaya/Helpaway/blob/main/assets/git%20images/helpaway_logo.png?raw=true" alt="">
+</p>
 <div id="hidden-in-page">
     <p align="center">
         <img src="https://github.com/yusuferenkaya/Helpaway/blob/main/assets/git%20images/tubakalpp.png" alt="">
@@ -19,9 +21,7 @@ We also thought of people who did not have a phone and would not be aware of our
 </p>
 
 
-<p align="center">
-        <img height="169" width="250" src="https://github.com/yusuferenkaya/Helpaway/blob/main/assets/git%20images/helpaway_logo.png?raw=true" alt="">
-</p>
+
 
 
 
