@@ -1,6 +1,10 @@
-<p align="left">
+<p align="center">
         <img height="169" width="250" src="https://github.com/yusuferenkaya/Helpaway/blob/main/assets/git%20images/helpaway_logo.png?raw=true" alt="">
 </p>
+
+
+
+
 <div id="hidden-in-page">
     <p align="center">
         <img src="https://github.com/yusuferenkaya/Helpaway/blob/main/assets/git%20images/tubakalpp.png" alt="">
