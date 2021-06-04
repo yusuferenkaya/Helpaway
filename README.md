@@ -47,7 +47,7 @@ flutter run
         <img height="1110" width="540" src="https://github.com/yusuferenkaya/Helpaway/blob/main/assets/git%20images/Screenshot_1616959389.png" alt="">
 </p>
 <p align="center" float="left">
-        <img height="1110" width="540" src="https://github.com/yusuferenkaya/Helpaway/blob/main/assets/git%20images/Screenshot_1616959392.png" alt="">
+        <img height="1110" width="540" src="https://github.com/yusuferenkaya/Helpaway/blob/main/assets/git%20images/Android%20Emulator%20-%20Pixel_3_API_30_5554%204.06.2021%2009_41_57.png?raw=true" alt="">
 </p>
 <p align="center" float="left">
         <img height="1110" width="540" src="https://github.com/yusuferenkaya/Helpaway/blob/main/assets/git%20images/Screenshot_1616959396.png" alt="">
