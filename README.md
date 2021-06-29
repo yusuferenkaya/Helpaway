@@ -1,5 +1,5 @@
 <p align="center">
-        <img height="169" width="250" src="https://github.com/yusuferenkaya/Helpaway/blob/main/assets/git%20images/helpaway_logo.png?raw=true" alt="">
+        <img height="200" width="200" src="https://github.com/yusuferenkaya/Helpaway/blob/main/assets/git%20images/helpaway_logo%20(2).png" alt="">
 </p>
 <hr>
 
