@@ -53,7 +53,7 @@ flutter run
 ## Screenshots
 
 <p align="center" float="left">
-        <img height="1110" width="540" src="https://github.com/yusuferenkaya/Helpaway/blob/main/assets/git%20images/Screenshot_1616959384.png?raw=true" alt="">
+        <img height="1110" width="540" src="https://drive.google.com/drive/folders/1AkD4s-8L5U1-90N1ImfC1yC1WZQBcEKh" alt="">
 </p>
 <p align="center" float="left">
         <img height="1110" width="540" src="https://github.com/yusuferenkaya/Helpaway/blob/main/assets/git%20images/Screenshot_1616959389.png" alt="">
