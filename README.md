@@ -53,32 +53,30 @@ flutter run
 ## Screenshots
 
 <p align="center" float="left">
-        <img height="1110" width="540" src="https://drive.google.com/drive/folders/1AkD4s-8L5U1-90N1ImfC1yC1WZQBcEKh" alt="">
+        <img height="1110" width="540" src="https://github.com/yusuferenkaya/Helpaway/blob/main/assets/git%20images/Screenshot_1624969740.png" alt="">
 </p>
 <p align="center" float="left">
-        <img height="1110" width="540" src="https://github.com/yusuferenkaya/Helpaway/blob/main/assets/git%20images/Screenshot_1616959389.png" alt="">
+        <img height="1110" width="540" src="https://github.com/yusuferenkaya/Helpaway/blob/main/assets/git%20images/Screenshot_1624969759.png" alt="">
 </p>
 <p align="center" float="left">
-        <img height="1110" width="540" src="https://github.com/yusuferenkaya/Helpaway/blob/main/assets/git%20images/Android%20Emulator%20-%20Pixel_3_API_30_5554%204.06.2021%2009_41_57.png?raw=true" alt="">
+        <img height="1110" width="540" src="https://github.com/yusuferenkaya/Helpaway/blob/main/assets/git%20images/Screenshot_1624970070.png" alt="">
 </p>
 <p align="center" float="left">
-        <img height="1110" width="540" src="https://github.com/yusuferenkaya/Helpaway/blob/main/assets/git%20images/Screenshot_1616959396.png" alt="">
+        <img height="1110" width="540" src="https://github.com/yusuferenkaya/Helpaway/blob/main/assets/git%20images/Screenshot_1624969942.png" alt="">
 </p>
 <p align="center" float="left">
-        <img height="1110" width="540" src="https://github.com/yusuferenkaya/Helpaway/blob/main/assets/git%20images/Screenshot_1616959460.png" alt="">
+        <img height="1110" width="540" src="https://github.com/yusuferenkaya/Helpaway/blob/main/assets/git%20images/4a9c4972-57ba-418d-8c9a-cfd64631c4b0.jpg" alt="">
 </p>
 <p align="center" float="left">
-        <img height="1110" width="540" src="https://github.com/yusuferenkaya/Helpaway/blob/main/assets/git%20images/Screenshot_1616959468.png" alt="">
+        <img height="1110" width="540" src="https://github.com/yusuferenkaya/Helpaway/blob/main/assets/git%20images/f8cbcb99-62b1-4764-b479-5f4f3bcbb5a3.jpg" alt="">
 </p>
 <p align="center" float="left">
-        <img height="1110" width="540" src="https://github.com/yusuferenkaya/Helpaway/blob/main/assets/git%20images/Screenshot_1616960890.png" alt="">
+        <img height="1110" width="540" src="https://github.com/yusuferenkaya/Helpaway/blob/main/assets/git%20images/Screenshot_1624969945.png" alt="">
 </p>
 <p align="center" float="left">
-        <img height="1110" width="540" src="https://github.com/yusuferenkaya/Helpaway/blob/main/assets/git%20images/Screenshot_1616960893.png" alt="">
+        <img height="1110" width="540" src="https://github.com/yusuferenkaya/Helpaway/blob/main/assets/git%20images/Screenshot_1624969947.png" alt="">
 </p>
-<p align="center" float="left">
-        <img height="1110" width="540" src="https://github.com/yusuferenkaya/Helpaway/blob/main/assets/git%20images/Screenshot_1616960895.png" alt="">
-</p>
+
 
 <hr>
 
