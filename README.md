@@ -38,6 +38,10 @@ We also thought of people who did not have a phone and would not be aware of our
 
 <hr>
 
+As the main update of our app, we have completely changed the UI design. We have implemented the Google Maps and Google Directions with our app to make things easier for our users who would benefit from the app. We have expanded the variety of categories from 2 to 5.  In that way, We thought that people in need would utilize the places that give away clothing, eating houses of charities, shelters provided by the municipalities and associations for homeless people. Therefore, we have added the details and locations of such places. 
+
+<hr>
+
 ## Run the project
 
 For run this project you need ios or android device(can be emulator). After connecting phone your computer successfully. You can run easily with these commands.
