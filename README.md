@@ -1,6 +1,8 @@
 # Helpaway
 
 Our team's aim in the Google Solution Challenge 2021 was to develop a solution that addresses the pressing issues of No Poverty and Zero Hunger, as identified by the United Nations, through the creation of a comprehensive application. The project was shortlisted among the top 50 globally
+<hr>
+
 ![ero-1](https://user-images.githubusercontent.com/63504037/212314165-5839c9a2-4795-4736-87e0-6a38f1285453.jpg)
 
 <hr>
