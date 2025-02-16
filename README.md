@@ -96,23 +96,6 @@ flutter run
 </p>
 
 
-<hr>
-
-## Members
-<p align="center">
-        <img src="https://github.com/yusuferenkaya/Helpaway/blob/main/assets/git%20images/fotolu222222.png" alt="">
-</p>
-
-<hr>
-<p>
-    
-- [Tuğba Yılmaz](https://www.linkedin.com/in/tu%C4%9Fba-y%C4%B1lmaz-6144521bb/)
-- [Bilge Kağan Ece](https://www.linkedin.com/in/bilgekaganece/)
-- [Emir Kaan Kurt](https://www.linkedin.com/in/emir-kaan-kurt-3b33371a2/)
-- [Yusuf Eren Kaya](https://www.linkedin.com/in/yusuferenkaya/)
-
-</p>
-<hr>
 
 
 
